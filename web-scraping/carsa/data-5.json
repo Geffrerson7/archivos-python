@@ -1,0 +1,578 @@
+[
+    {
+      "name": "Colchón Cisne Brave 1.5 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-brave-1-5-plz-2000001010099",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-brave-1.5-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-brave-1.5-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010099",
+      "price": {
+        "PEN": {
+          "default": 599,
+          "default_formated": "S/599.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/699.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7161",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Brave 1.5 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010099",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Force 1.5 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-force-1-5-plz-2000001010075",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-force-1.5-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-force-1.5-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010075",
+      "price": {
+        "PEN": {
+          "default": 449,
+          "default_formated": "S/449.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/569.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7155",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Force 1.5 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010075",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Force 1 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-force-1-plz-2000001010068",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-force-1-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-force-1-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010068",
+      "price": {
+        "PEN": {
+          "default": 459,
+          "default_formated": "S/459.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/499.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7152",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Force 1 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010068",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Basic 2 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-basic-2-plz-2000001010051",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-2-plazas-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-2-plazas-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010051",
+      "price": {
+        "PEN": {
+          "default": 389,
+          "default_formated": "S/389.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/449.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7149",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Basic 2 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010051",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Basic 1.5 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-basic-1-5-plz-2000001010044",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-1.5-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-1.5-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010044",
+      "price": {
+        "PEN": {
+          "default": 299,
+          "default_formated": "S/299.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/349.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7146",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Basic 1.5 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010044",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Basic 1 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-basic-1-plz-2000001010037",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": null,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-1-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-basic-1-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010037",
+      "price": {
+        "PEN": {
+          "default": 279,
+          "default_formated": "S/279.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/299.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7143",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Basic 1 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010037",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ]

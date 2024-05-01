@@ -1,0 +1,848 @@
+[
+    {
+      "name": "Colchón Cisne Easy 1.5 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-easy-1-5-plz-2000001010013",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 3,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-easy-1.5-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-cisne-easy-1.5-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010013",
+      "price": {
+        "PEN": {
+          "default": 209,
+          "default_formated": "S/209.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/259.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7137",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Easy 1.5 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010013",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Dormitorio Savama: Colchón King + Base + Cabecera +  2 Veladores ",
+      "url": "https://www.carsa.pe/dormitorio-savama-colchon-king-base-cabecera-2-veladores-2000001010389",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 2,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Juegos de Dormitorio"
+        ]
+      },
+      "categories_without_path": [
+        "Juegos de Dormitorio"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1129"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-king-1_1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-king-1_1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010389",
+      "price": {
+        "PEN": {
+          "default": 3099,
+          "default_formated": "S/3,099.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/3,499.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Juegos de Dormitorio",
+      "tipo_de_producto": "King",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7260",
+      "_highlightResult": {
+        "name": {
+          "value": "Dormitorio Savama: Colchón King + Base + Cabecera +  2 Veladores ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Juegos de Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Juegos de Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010389",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Conjunto Cisne Basic 2 plz",
+      "url": "https://www.carsa.pe/conjunto-cisne-basic-2-plz-2000001010211",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 2,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Juegos de Dormitorio"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Juegos de Dormitorio"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1129"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/a/cama-cisne-basic-2-plazas-1_1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/a/cama-cisne-basic-2-plazas-1_1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010211",
+      "price": {
+        "PEN": {
+          "default": 709,
+          "default_formated": "S/709.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/849.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Juegos de Dormitorio",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7206",
+      "_highlightResult": {
+        "name": {
+          "value": "Conjunto Cisne Basic 2 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Juegos de Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Juegos de Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010211",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Cama Cisne Eco Easy 2 plz",
+      "url": "https://www.carsa.pe/cama-cisne-eco-easy-2-plz-2000001010426",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 2,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Camas Box Tarima"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Camas Box Tarima"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1126"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/a/cama-box-tarima-easy-2-plazas-1_1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/a/cama-box-tarima-easy-2-plazas-1_1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010426",
+      "price": {
+        "PEN": {
+          "default": 599,
+          "default_formated": "S/599.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/729.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Camas Box Tarima",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7194",
+      "_highlightResult": {
+        "name": {
+          "value": "Cama Cisne Eco Easy 2 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Camas Box Tarima",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Camas Box Tarima",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010426",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Pocket Silver 1.5 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-pocket-silver-1-5-plz-2000001010150",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 2,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-pocket-silver-1.5-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-pocket-silver-1.5-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010150",
+      "price": {
+        "PEN": {
+          "default": 549,
+          "default_formated": "S/549.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/649.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7167",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Pocket Silver 1.5 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010150",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Dormitorio Savama: Colchón Queen + Base + Cabecera +  2 Veladores ",
+      "url": "https://www.carsa.pe/dormitorio-savama-colchon-queen-base-cabecera-2-veladores-2000001010372",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 1,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Juegos de Dormitorio"
+        ]
+      },
+      "categories_without_path": [
+        "Juegos de Dormitorio"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1129"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-queen-1_1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-queen-1_1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010372",
+      "price": {
+        "PEN": {
+          "default": 2599,
+          "default_formated": "S/2,599.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/2,999.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Juegos de Dormitorio",
+      "tipo_de_producto": "Queen",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7257",
+      "_highlightResult": {
+        "name": {
+          "value": "Dormitorio Savama: Colchón Queen + Base + Cabecera +  2 Veladores ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Juegos de Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Juegos de Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010372",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Dormitorio Savama: Colchón 2 plz + Base + Cabecera +  2 Veladores ",
+      "url": "https://www.carsa.pe/dormitorio-savama-colchon-2-plz-base-cabecera-2-veladores-2000001010365",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 1,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Juegos de Dormitorio"
+        ]
+      },
+      "categories_without_path": [
+        "Juegos de Dormitorio"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1129"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-2-plazas-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/d/o/dormitorio-savama-2-plazas-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010365",
+      "price": {
+        "PEN": {
+          "default": 2099,
+          "default_formated": "S/2,099.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/2,499.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Juegos de Dormitorio",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7254",
+      "_highlightResult": {
+        "name": {
+          "value": "Dormitorio Savama: Colchón 2 plz + Base + Cabecera +  2 Veladores ",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Juegos de Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Juegos de Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010365",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Conjunto Cisne Pocket Black 2 plz",
+      "url": "https://www.carsa.pe/conjunto-cisne-pocket-black-2-plz-2000001010297",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 1,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Juegos de Dormitorio"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Juegos de Dormitorio"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1129"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/conjunto-pocket-black-2-plazas-1_1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/conjunto-pocket-black-2-plazas-1_1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010297",
+      "price": {
+        "PEN": {
+          "default": 999,
+          "default_formated": "S/999.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/1,249.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Juegos de Dormitorio",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7230",
+      "_highlightResult": {
+        "name": {
+          "value": "Conjunto Cisne Pocket Black 2 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Juegos de Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Juegos de Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010297",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "name": "Colchón Cisne Pocket Black 2 plz",
+      "url": "https://www.carsa.pe/colchon-cisne-pocket-black-2-plz-2000001010129",
+      "visibility_search": 1,
+      "visibility_catalog": 1,
+      "type_id": "simple",
+      "ordered_qty": 1,
+      "rating_summary": null,
+      "categories": {
+        "level0": [
+          "Productos"
+        ],
+        "level1": [
+          "Productos /// Dormitorio"
+        ],
+        "level2": [
+          "Productos /// Dormitorio /// Colchones"
+        ]
+      },
+      "categories_without_path": [
+        "Dormitorio",
+        "Colchones"
+      ],
+      "categoryIds": [
+        "3",
+        "1120",
+        "1123"
+      ],
+      "thumbnail_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-pocket-black-2-plaza-1.jpg?width=75&height=75&canvas=75,75&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "image_url": "https://www.carsa.pe/media/catalog/product/c/o/colcho_n-pocket-black-2-plaza-1.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds",
+      "in_stock": 1,
+      "sku": "2000001010129",
+      "price": {
+        "PEN": {
+          "default": 599,
+          "default_formated": "S/599.00",
+          "special_from_date": 1708387200,
+          "special_to_date": 1711843200,
+          "default_original_formated": "S/729.00"
+        }
+      },
+      "categoria": "Dormitorio",
+      "subcategoria": "Colchones",
+      "tipo_de_producto": "Individual",
+      "marca": "Cisne",
+      "created_at": "2023-10-17 16:55:11",
+      "algoliaLastUpdateAtCET": "2024-03-01 19:25:05",
+      "objectID": "7182",
+      "_highlightResult": {
+        "name": {
+          "value": "Colchón Cisne Pocket Black 2 plz",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "categories": {
+          "level0": [
+            {
+              "value": "Productos",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level1": [
+            {
+              "value": "Productos /// Dormitorio",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ],
+          "level2": [
+            {
+              "value": "Productos /// Dormitorio /// Colchones",
+              "matchLevel": "none",
+              "matchedWords": []
+            }
+          ]
+        },
+        "categories_without_path": [
+          {
+            "value": "Dormitorio",
+            "matchLevel": "none",
+            "matchedWords": []
+          },
+          {
+            "value": "Colchones",
+            "matchLevel": "none",
+            "matchedWords": []
+          }
+        ],
+        "sku": {
+          "value": "2000001010129",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ]
